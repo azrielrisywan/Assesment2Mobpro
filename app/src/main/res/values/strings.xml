@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">motivation-app</string>
+    <string name="histori">Histori</string>
+
+<!--    string for bottom nav-->
+    <string name="quotes">Quotes</string>
+
+<!--    about string-->
+    <string name="about_the_app">About the app</string>
+    <string name="about">Motivation–App adalah sebuah aplikasi yang menampilkan kumpulan
+        quotes yang dapat menginspirasi. Dibuat dengan kesabaran oleh Mahasiswa D3IF-44-01 inisial A</string>
+
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="pilih_gender">Pilih jenis kelaminmu</string>
+    <string name="generate">Generate</string>
+    <string name="masukkan_nama">Masukkan Namamu</string>
+    <string name="nama_invalid">Masukkan namamu dengan benar!</string>
+    <string name="gender_invalid">Pilih jenis kelamin dengan benar!</string>
+    <string name="data_kosong">Data Kosong</string>
+    <string name="hapus_histori">Hapus Histori</string>
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="bagikan">bagikan</string>
+</resources>
