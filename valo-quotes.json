@@ -2,56 +2,56 @@
     {
         "name": "Cypher",
         "quote": "Nothing stays hidden from me. Nothing.", 
-        "image": "https://static.wikia.nocookie.net/valorant/images/8/88/Cypher_icon.png/revision/latest/scale-to-width-down/100?cb=20201128234211"
+        "image": "https://raw.githubusercontent.com/azrielrisywan/Assesment2Mobpro/main/assets/Cypher_Email_ID.jpg"
     },
     {
         "name": "Sova",
         "quote": "If you're not a good shot today, don't worry. There are other ways to be useful.",
-        "image": "https://static.wikia.nocookie.net/valorant/images/1/16/Sova_Email_ID.png/revision/latest?cb=20220215174436"
+        "image": "https://raw.githubusercontent.com/azrielrisywan/Assesment2Mobpro/main/assets/Sova_Email_ID.jpg"
     },
     {
         "name": "Omen",
         "quote": "My smokes can block the enemy's line of sight. Once they're blind, we move.",
-        "image": "https://static.wikia.nocookie.net/valorant/images/b/b0/Omen_icon.png/revision/latest/scale-to-width-down/100?cb=20201128234318"    
+        "image": "https://raw.githubusercontent.com/azrielrisywan/Assesment2Mobpro/main/assets/Omen_icon.jpg"    
     },
     {
         "name": "Yoru",
         "quote": "I don't care if there are five of them or fifty of them. Let's go!",
-        "image": "https://static.wikia.nocookie.net/valorant/images/d/d4/Yoru_icon.png/revision/latest/scale-to-width-down/100?cb=20210112211830"
+        "image": "https://raw.githubusercontent.com/azrielrisywan/Assesment2Mobpro/main/assets/Yoru_icon.jpg"
     },
     {
         "name": "Chamber",
         "quote": "Don't stop fighting. You must keep going, even if you are the only one.",
-        "image": "https://static.wikia.nocookie.net/valorant/images/0/09/Chamber_icon.png/revision/latest/scale-to-width-down/100?cb=20211113013323"
+        "image": "https://raw.githubusercontent.com/azrielrisywan/Assesment2Mobpro/main/assets/Chamber_icon.jpg"
     },
     {
         "name": "Sova",
         "quote": "Watch them run when lit by my sonar. That's when we strike.",
-        "image": "https://static.wikia.nocookie.net/valorant/images/1/16/Sova_Email_ID.png/revision/latest?cb=20220215174436"
+        "image": "https://raw.githubusercontent.com/azrielrisywan/Assesment2Mobpro/main/assets/Sova_Email_ID.jpg"
     },
     {
         "name": "Sova",
         "quote": "They demand a fight. Who are we to disobey?",
-        "image": "https://static.wikia.nocookie.net/valorant/images/1/16/Sova_Email_ID.png/revision/latest?cb=20220215174436"
+        "image": "https://raw.githubusercontent.com/azrielrisywan/Assesment2Mobpro/main/assets/Sova_Email_ID.jpg"
     },
     {
         "name": "Sova",
         "quote": "Enemies close. Eyes up.",
-        "image": "https://static.wikia.nocookie.net/valorant/images/1/16/Sova_Email_ID.png/revision/latest?cb=20220215174436"
+        "image": "https://raw.githubusercontent.com/azrielrisywan/Assesment2Mobpro/main/assets/Sova_Email_ID.jpg"
     },
     {
         "name": "Omen",
         "quote": "I'll make them remember...they're only human.",
-        "image": "https://static.wikia.nocookie.net/valorant/images/b/b0/Omen_icon.png/revision/latest/scale-to-width-down/100?cb=20201128234318"
+        "image": "https://raw.githubusercontent.com/azrielrisywan/Assesment2Mobpro/main/assets/Omen_icon.jpg"
     },
     {
         "name": "Omen",
         "quote": "I will take back what is mine.",
-        "image": "https://static.wikia.nocookie.net/valorant/images/b/b0/Omen_icon.png/revision/latest/scale-to-width-down/100?cb=20201128234318"
+        "image": "https://raw.githubusercontent.com/azrielrisywan/Assesment2Mobpro/main/assets/Omen_icon.jpg"
     },
     {
         "name": "Chamber",
         "quote": "If you're not doing well, keep trying. We must keep up appearances.",
-        "image": "https://static.wikia.nocookie.net/valorant/images/0/09/Chamber_icon.png/revision/latest/scale-to-width-down/100?cb=20211113013323"
+        "image": "https://raw.githubusercontent.com/azrielrisywan/Assesment2Mobpro/main/assets/Chamber_icon.jpg"
     }
 ]
